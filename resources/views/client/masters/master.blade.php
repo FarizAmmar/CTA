@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    @include('client.partials.navbar')
     @yield('container')
 </body>
 
